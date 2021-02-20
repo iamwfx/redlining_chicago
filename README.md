@@ -5,7 +5,7 @@ This notebook contains the code and data for the paper "Legacies of Institutiona
 Author: [Wenfei Xu](wenfeixu.com)
 
 ## Citation
-If you would like to use the data and/or code from this repo, please use the following citaion: 
+If you would like to use the data and/or code from this repo, please use the following citation: 
 ```
 
 @article{xu_legacies_nodate,
