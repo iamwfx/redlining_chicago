@@ -8,15 +8,19 @@ Author: [Wenfei Xu](wenfeixu.com)
 If you would like to use the data and/or code from this repo, please use the following citation: 
 ```
 
-@article{xu_legacies_nodate,
-	title = {Legacies of {Institutionalized} {Redlining}: {A} {Comparison} {Between} {Speculative} and {Implemented} {Mortgage} {Risk} {Maps} in {Chicago}},
-	copyright = {All rights reserved},
-	issn = {2152-050X},
-	doi = {10.1080/10511482.2020.1858924},
-	journal = {Housing Policy Debate},
-	author = {Xu, Wenfei},
-	note = {Publisher: Routledge},
-	annote = {doi: 10.1080/10511482.2020.1858924}
+@article{doi:10.1080/10511482.2020.1858924,
+author = {Wenfei Xu},
+title = {Legacies of Institutionalized Redlining: A Comparison Between Speculative and Implemented Mortgage Risk Maps in Chicago, Illinois},
+journal = {Housing Policy Debate},
+volume = {0},
+number = {0},
+pages = {1-26},
+year  = {2021},
+publisher = {Routledge},
+doi = {10.1080/10511482.2020.1858924},
+
+URL = { 
+        https://doi.org/10.1080/10511482.2020.1858924    
 }
 ```
 
