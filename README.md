@@ -1,4 +1,3 @@
-# redlining_chicago
 # Legacies of Institutionalized Redlining
 This notebook contains the code and data for the paper "Legacies of Institutionalized Redlining: A Comparison Between Speculative and Implemented Mortgage Risk Maps in Chicago, Illinois" forthcoming in *Housing Policy Debate*. 
 
